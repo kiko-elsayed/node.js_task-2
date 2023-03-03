@@ -1,0 +1,136 @@
+[
+    {
+        "id": 2,
+        "fname": "mena",
+        "lname": "hassan",
+        "age": 20,
+        "address": "Talkha",
+        "phone": "12367890"
+    },
+    {
+        "id": 3,
+        "fname": "karim",
+        "lname": "elsayed",
+        "age": 21,
+        "address": "mansoura",
+        "phone": "12367890"
+    },
+    {
+        "id": 4,
+        "fname": "mazen",
+        "lname": "ahmed",
+        "age": 22,
+        "address": "tanta",
+        "phone": "12367890"
+    },
+    {
+        "id": 5,
+        "fname": "islam",
+        "lname": "mohamed",
+        "age": 52,
+        "address": "zagazig",
+        "phone": "12367890"
+    },
+    {
+        "id": 8,
+        "fname": "sara",
+        "lname": "mahmoud",
+        "age": 17,
+        "address": "geza",
+        "phone": "12367890"
+    },
+    {
+        "id": 9,
+        "fname": "Tarek",
+        "lname": "shoieb",
+        "age": 22,
+        "address": "demera",
+        "phone": "12367890"
+    },
+    {
+        "id": 11,
+        "fname": "mostafa",
+        "lname": "mohamed",
+        "age": 27,
+        "address": "Talkha",
+        "phone": "12367890"
+    },
+    {
+        "id": 12,
+        "fname": "Nour",
+        "lname": "ali",
+        "age": 20,
+        "address": "Damiette",
+        "phone": "12367890"
+    },
+    {
+        "id": 13,
+        "fname": "karim",
+        "lname": "khater",
+        "age": 21,
+        "address": "mansoura",
+        "phone": "12367890"
+    },
+    {
+        "id": 14,
+        "fname": "osama",
+        "lname": "elzero",
+        "age": 35,
+        "address": "cairo",
+        "phone": "12367890"
+    },
+    {
+        "id": 16,
+        "fname": "ali",
+        "lname": "fayez",
+        "age": 20,
+        "address": "Aswan",
+        "phone": "12367890"
+    },
+    {
+        "id": 17,
+        "fname": "mena",
+        "lname": "wael",
+        "age": 20,
+        "address": "luxor",
+        "phone": "12367890"
+    },
+    {
+        "id": 18,
+        "fname": "amr",
+        "lname": "elsayed",
+        "age": 21,
+        "address": "sharqia",
+        "phone": "12367890"
+    },
+    {
+        "id": 20,
+        "fname": "mohamed",
+        "lname": "khaled",
+        "age": 31,
+        "address": "Talkha",
+        "phone": "12367890"
+    },
+    {
+        "id": 1,
+        "subject1": 60,
+        "subject2": 80,
+        "subject3": 90,
+        "subject4": 75,
+        "subject5": 85,
+        "subject6": 100,
+        "total": 490,
+        "average": 82
+    },
+    {
+        "id": 3,
+        "subject1": 100,
+        "subject2": 100,
+        "subject3": 100,
+        "subject4": 100,
+        "subject5": 100,
+        "subject6": 100,
+        "total": 600,
+        "average": 100
+    }
+]
